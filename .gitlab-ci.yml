@@ -3,5 +3,6 @@ before_script:
 print:
   script:
     - ls -l
+    - echo "Hello! I am the second commit!"
 
 
