@@ -1,0 +1,7 @@
+before_script:
+  - apt-get update
+print:
+  script:
+    - ls -l
+
+
