@@ -1,5 +1,2 @@
-let helloWorld = ()=>{
 console.log("Hello world!");
-}
-
-helloWorld();
+console.log("another hello world");
