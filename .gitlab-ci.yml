@@ -1,8 +1,9 @@
 before_script:
   - apt-get update
+  - apt install nodejs npm
 print:
   script:
-    - ls -l
-    - echo "Hello! I am the second commit!"
+ - node hello-world.js
+ - ls -l
 
 
