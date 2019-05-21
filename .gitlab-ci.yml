@@ -3,7 +3,7 @@ before_script:
   - apt install nodejs npm
 print:
   script:
- - node hello-world.js
- - ls -l
+  - node hello-world.js
+  - ls -l
 
 
