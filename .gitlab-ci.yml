@@ -1,6 +1,5 @@
 
 image:node:9-alpine
-before_script:
 print:
   script:
   - node hello-world.js
