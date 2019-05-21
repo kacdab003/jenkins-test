@@ -1,2 +1,4 @@
-console.log("Hello world!");
-console.log("another hello world");
+let hw=()=>{
+    console.log('hello world!');
+}
+hw();
