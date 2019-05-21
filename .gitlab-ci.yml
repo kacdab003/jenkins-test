@@ -1,9 +1,9 @@
 before_script:
   - apt-get update
-  - apt install nodejs -y
+  - apt-get install nodejs -y
 print:
   script:
   - node hello-world.js
-  - ls -l
+
 
 
