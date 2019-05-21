@@ -1,6 +1,6 @@
+
+image:node:9-alpine
 before_script:
-  - apt-get update
-  - apt-get install nodejs -y
 print:
   script:
   - node hello-world.js
